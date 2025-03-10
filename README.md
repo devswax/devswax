@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Actually Swax <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
+<h1 align="center">Actually Swax <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
 ```bash
 devswax:~$ ls
