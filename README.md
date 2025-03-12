@@ -15,6 +15,7 @@ devswax:~$ cd associations && ls
 devswax:~$ cd techs && ls
 > C#
 > HTML/CSS
+> Shell
 > Python
 > OCaml
 > Octave
